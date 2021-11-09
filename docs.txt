@@ -1,0 +1,2 @@
+row = baris
+col = kolom
